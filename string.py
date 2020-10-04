@@ -1,0 +1,31 @@
+ print("Alan Turing")
+ print('Alan Turing')
+ print('123980')
+ print('@3%46&9')
+ name= 'Alan Turing'
+ print(name)
+ len("Alan Turing")
+ print(name[3])
+ print(name[-6])
+ print(name[7:12])
+ print(name[::2])
+ statement= name + " is the best"
+ print(statement)
+ print("Alan Turing is \n the best")
+ print("Alan Turing is \t the best")
+ print(r"Alan Turing is \ the best")
+ print("Alan Turing is \\ the best")
+ print(3 * " Alan Turing")
+ A="storm"
+ print("Before upper:", A)
+ B=A.upper()
+ print("After upper:", B)
+ G="OWL"
+ print("Before lower:", G)
+ F=G.lower()
+ print("After lower:", F)
+ Z="Alan Turing is the best"
+ Q=Z.replace('Alan','Ann')
+ print(A.find('or'))
+ print(Z)
+ print(Q)
